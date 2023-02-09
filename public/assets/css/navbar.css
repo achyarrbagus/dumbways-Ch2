@@ -1,0 +1,17 @@
+/* nav css */
+.button-custom-nav {
+  background-color: black;
+  border: none;
+  color: white;
+  border-radius: 10px;
+  padding: 10px;
+}
+.button-custom-nav:hover {
+  background-color: #fa5e43;
+}
+
+body {
+  height: 400vh;
+}
+
+/* end nav  */
